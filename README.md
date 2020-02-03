@@ -1,5 +1,5 @@
 # clothes_detection
-Clothes detection model
+Clothes detection model with Tensorflow API
 
 ## Процесс создания модели происходил в несколько этапов:
 1. Сбор и разметка данных
